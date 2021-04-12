@@ -9,6 +9,9 @@
 - `vagrant ssh` to ssh into virtual machine 
 - `vagrant halt` to pause 
 
+- apt-get in Linux is a package manager to install/update like windows installer/mac app store
+- `apt-get`
+
 ## DEVOPS
 ### Definitions of DevOps
 - A collaboration of development and operations
