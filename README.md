@@ -5,7 +5,7 @@
 	- Continuous Development
 	- Continuous Testing 
 	- Continuous Integration
-	= Continuous Deployment 
+	- Continuous Deployment 
 	- Continuous Monitoring   
 ### What Are The Pillars ?
 
