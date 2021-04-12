@@ -7,6 +7,8 @@
 	- Continuous Integration
 	- Continuous Deployment 
 	- Continuous Monitoring   
+### What are CI/CD Piplelines?
+
 ### What Are The Pillars ?
 
  
