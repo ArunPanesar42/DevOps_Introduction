@@ -1,5 +1,15 @@
 # DevOps Introduction 
 
+## BASH COMMANDS
+### Vagrant Commands
+- `vagrant up` to spin up virtual machine
+- `vagrant destory` to destroy
+- `vagrant reload` to reload
+- `vagrant status` to see the status and see how many machines are running 
+- `vagrant ssh` to ssh into virtual machine 
+- `vagrant halt` to pause 
+
+## DEVOPS
 ### Definitions of DevOps
 - A collaboration of development and operations
 - A culture which promotes collaboration between Development and operations teams to deploy code to production faster in an automated & repeatable way
@@ -23,15 +33,9 @@
 	- Understanding automation
 ### What does CAMS Stand for?
 - CAMS stands for Culture Automation Measurement Sharing and it is the practice of that there is no one to blame and you work as a team
-
-### What are CI/CD Piplelines?
-
 ### What Are The Pillars ?
 - The Four Pillars of DevOps can be broken down into:
 	- Ease of Use
 	- Flexibility
 	- Robustness
 	- Cost
- 
-### Why is it needed ?
-
