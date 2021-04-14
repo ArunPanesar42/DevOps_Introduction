@@ -22,6 +22,10 @@
 - `rm`: used to remove files
 - `ps`: check processes that are running
 
+#### How to make data Persistant 
+
+- To make data persistant we use `~/.bashrc` to add thing s we want to keep in our teimal even after exiting
+
 ## DEVOPS
 ### Definitions of DevOps
 - A collaboration of development and operations
