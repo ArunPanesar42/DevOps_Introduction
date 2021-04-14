@@ -5,6 +5,8 @@
 - `vagrant up` to spin up virtual machine
 - `vagrant destory` to destroy
 - `vagrant reload` to reload
+- `vagrant suspend` to suspend
+- `vagrant resume` to resume
 - `vagrant status` to see the status and see how many machines are running 
 - `vagrant ssh` to ssh into virtual machine 
 - `vagrant halt` to pause 
