@@ -1,31 +1,5 @@
 # DevOps Introduction 
 
-## BASH COMMANDS
-### Vagrant Commands
-- `vagrant up` to spin up virtual machine
-- `vagrant destory` to destroy
-- `vagrant reload` to reload
-- `vagrant suspend` to suspend
-- `vagrant resume` to resume
-- `vagrant status` to see the status and see how many machines are running 
-- `vagrant ssh` to ssh into virtual machine 
-- `vagrant halt` to pause 
-### Linux Commands 
-- `sudo command`: run a command as an admin
-- `sudo su`: move into admin mode
-- `ls`: list directory
-- `ll`: list dir with permisions
-- `mkdir`: create a directory
-- `pwd`: lets you know your current directory
-- `nano filename`: opens filename using the nano editor. If the file doesn't exist, it's created
-- `mv`: for moving files. Can also rename files using it
-- `rm`: used to remove files
-- `ps`: check processes that are running
-
-#### How to make data Persistant 
-
-- To make data persistant we use `~/.bashrc` to add thing s we want to keep in our teimal even after exiting
-
 ## DEVOPS
 ### Definitions of DevOps
 - A collaboration of development and operations
@@ -56,3 +30,17 @@
 	- Flexibility
 	- Robustness
 	- Cost
+
+## BASH COMMANDS
+### Vagrant Commands
+- `vagrant up` to spin up virtual machine
+- `vagrant destory` to destroy
+- `vagrant reload` to reload
+- `vagrant suspend` to suspend
+- `vagrant resume` to resume
+- `vagrant status` to see the status and see how many machines are running 
+- `vagrant ssh` to ssh into virtual machine 
+- `vagrant halt` to pause
+
+#### How to make data Persistant 
+- To make data persistant we use `~/.bashrc` to add thing s we want to keep in our teimal even after exiting
